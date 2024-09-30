@@ -10,9 +10,8 @@ Crear un fork desde GitHub es muy sencillo. Ve a la página principal del reposi
 Una vez completado el fork, nos aparecerá en nuestra cuenta el repositorio "forkeado":
 
 ## Clonando el repositorio en nuestro PC
-Una vez creado, podemos hacer una copia del repositorio en nuestro PC para editarlo. Para ello, abrimos una terminal e introducimos los siguientes comandos:
+Una vez creado, podemos hacer una copia del repositorio en nuestro PC para editarlo. 
+Para ello, abrimos una terminal e introducimos los siguientes comandos:
 
 $ git clone <url_del_repo>
-En mi caso:
 
-$ git clone git@github.com:David-Estevez/test-repository.git
